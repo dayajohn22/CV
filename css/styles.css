@@ -1,0 +1,18 @@
+
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: blue;
+    border-width:thick;
+    width: 3.5%;
+  }
+  h1{
+    color: #66bfbf;
+  }
+h3{
+  color:#66bfbf;
+}
+body{
+  background-color: #838383;
+  background-image: image();
+}
